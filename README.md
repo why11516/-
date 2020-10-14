@@ -1,5 +1,5 @@
 # interview
-该仓库旨在复习和学习面试题，目标大厂客户端
+该仓库旨在复习和学习面试题
 Java:
 了解 java 基础，反射，集合类、锁等 
 了解 JVM、JMM、GC、ClassLoader Android: 
